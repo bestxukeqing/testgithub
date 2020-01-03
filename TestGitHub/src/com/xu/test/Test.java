@@ -3,6 +3,7 @@ package com.xu.test;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("Test.main()");
+		int i = 0;
+		System.out.println("Test.main()"+i);
 	}
 }
